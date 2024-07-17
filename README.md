@@ -25,7 +25,7 @@ El Foro Hub es una API REST desarrollada con Spring Boot que permite gestionar t
 
 ## 📁 Estructura del Proyecto
 
-- **`src/main/java/med/voll/api`**: Contiene el código fuente de la API, dividido en:
+- **`src/main/java/com/thiagov2a/forohub`**: Contiene el código fuente de la API, dividido en:
   - **`controller`**: Controladores REST que manejan las solicitudes HTTP.
   - **`domain`**: Modelos de datos y servicios relacionados.
   - **`infra`**: Implementaciones de acceso a datos y configuración adicional.
@@ -35,7 +35,7 @@ El Foro Hub es una API REST desarrollada con Spring Boot que permite gestionar t
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
-1. **Clonar el Repositorio**: `git clone https://github.com/thiagov2a/api-rest-alura-one.git`
+1. **Clonar el Repositorio**: `git clone https://github.com/thiagov2a/challenge-api-rest-alura-one.git`
 2. **Navegar al Directorio**: `cd api-rest-alura-one`
 3. **Configurar la Base de Datos**: Asegúrate de que MySQL esté instalado y corriendo, y configura la base de datos según las propiedades en `src/main/resources/application.properties`.
 4. **Ejecutar el Proyecto**: Utiliza un IDE compatible (como IntelliJ IDEA o Eclipse) para compilar y ejecutar la aplicación. Verifica que las configuraciones en `application.properties` estén correctas.
