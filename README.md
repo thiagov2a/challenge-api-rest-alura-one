@@ -31,7 +31,6 @@ El Foro API REST es una API desarrollada con Spring Boot que permite gestionar t
   - **`infra`**: Implementaciones de acceso a datos y configuración adicional.
 - **`src/main/resources`**: Archivos de configuración, incluyendo:
   - **`application.properties`**: Configuración de la base de datos y propiedades de la aplicación.
-- **`src/test/java/med/voll/api`**: Contiene pruebas unitarias y de integración para asegurar la calidad del código.
 - **`pom.xml`**: Archivo de configuración de Maven que gestiona las dependencias del proyecto.
 
 ## 🚀 Cómo Ejecutar el Proyecto
