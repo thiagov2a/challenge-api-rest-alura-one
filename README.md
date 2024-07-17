@@ -12,7 +12,7 @@
 
 ## 📝 Descripción del Proyecto
 
-El Foro API REST es una API desarrollada con Spring Boot que permite gestionar tópicos dentro de un foro. La API permite a los usuarios autenticados crear, listar, actualizar y eliminar tópicos. Los datos se almacenan en una base de datos, y la autenticación se maneja mediante tokens JWT para asegurar el acceso y la integridad de los datos.
+El Foro Hub es una API REST desarrollada con Spring Boot que permite gestionar tópicos dentro de un foro. La API permite a los usuarios autenticados crear, listar, actualizar y eliminar tópicos. Los datos se almacenan en una base de datos, y la autenticación se maneja mediante tokens JWT para asegurar el acceso y la integridad de los datos.
 
 ## 📋 Funcionalidades
 
